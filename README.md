@@ -3,7 +3,9 @@
 
 <div align="left">
   
-   <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCKCFTfRsFffrPTtTZjCVbjHXNZCmxvzDKbDPjCXdDMbZJpbNSdtBvfbCvgbRMrzpndfDHDB"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="95"></a>
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCKCFTfRsFffrPTtTZjCVbjHXNZCmxvzDKbDPjCXdDMbZJpbNSdtBvfbCvgbRMrzpndfDHDB"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="95">
+</a>
+
   <a href="https://www.instagram.com/matheuscavalcantisantos/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="133"></a>
   <a href="https://www.linkedin.com/in/matheus-cavalcanti-santos-60a961264/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" width="120"></a>
   
